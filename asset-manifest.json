@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Exo-Form-React/static/css/main.a1d02492.css",
+    "main.js": "/Exo-Form-React/static/js/main.75e28a04.js",
+    "static/js/787.0bca8be2.chunk.js": "/Exo-Form-React/static/js/787.0bca8be2.chunk.js",
+    "static/media/christopher-gower-vjMgqUkS8q8-unsplash.jpg": "/Exo-Form-React/static/media/christopher-gower-vjMgqUkS8q8-unsplash.6c1d5ee492cd7fe92473.jpg",
+    "static/media/helo.ttf": "/Exo-Form-React/static/media/helo.691e5cb731ba007ce90c.ttf",
+    "static/media/Merienda-VariableFont_wght.ttf": "/Exo-Form-React/static/media/Merienda-VariableFont_wght.373b823211bb1d6f1f8b.ttf",
+    "index.html": "/Exo-Form-React/index.html",
+    "main.a1d02492.css.map": "/Exo-Form-React/static/css/main.a1d02492.css.map",
+    "main.75e28a04.js.map": "/Exo-Form-React/static/js/main.75e28a04.js.map",
+    "787.0bca8be2.chunk.js.map": "/Exo-Form-React/static/js/787.0bca8be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d02492.css",
+    "static/js/main.75e28a04.js"
+  ]
+}
